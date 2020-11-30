@@ -1,2 +1,2 @@
 # HE_TIC
-This is a repository where I will be uploading as much projects as we do in the TIC subject.
+This is a repository where I will be uploading as many projects as we do in the TIC subject.
