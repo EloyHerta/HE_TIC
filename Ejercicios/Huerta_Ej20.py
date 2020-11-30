@@ -1,3 +1,4 @@
+    # Vamos a hacer un programa que compruebe el NIF de una persona, devolviendo el numero 0 si es correcto y el 1 si es incorrecto.
 def nifIdentifier(nif):
 
     nifLetter = "X"
